@@ -1,5 +1,5 @@
 import React from "react";
-import { FaUsers } from "react-icons/fa";
+// import { FaUsers } from "react-icons/fa";
 import {AiOutlineArrowRight} from 'react-icons/ai'
 
 function Page1() {

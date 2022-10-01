@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Hero from './Components/Elements/Hero';
 import Footer from './Components/Layouts/Footer';
@@ -13,7 +13,7 @@ import Page4 from './Components/Elements/Page4';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Header/>
       <Page4 />
       <Hero/>

@@ -1,5 +1,5 @@
 import React from "react";
-import Typed from "react-typed";
+
 
 function Page4() {
   return (
@@ -11,10 +11,11 @@ function Page4() {
             <div className="">
                 <div className="hero-6 pt-5 ">
               <p className="para1">WELCOME TO</p>
-              <Typed className="para1 fs-1 fw-bold" strings={[
-                "SAFEMOON"
-              ]}
-              typeSpeed={150} />
+              <span className="para1 fs-1 fw-bold" >
+
+                SAFEMOON
+              </span>
+             
               <p className="para1">Community-driven Innovation for Good</p>
               <div>
               <button type="button" class="btn btn-success fw-bold">Consolidate to V2 SafeMoon!</button>
